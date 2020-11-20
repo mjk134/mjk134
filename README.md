@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm a python and c# programmer. Dm me on discord for discord bots!
 <!--
 **mjk134/mjk134** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
