@@ -1,5 +1,6 @@
 ### Hi there 👋
 ![Discord Banner 1](https://discordapp.com/api/guilds/747168555094638662/widget.png?style=shield)
+
 I'm a python and c# programmer. Dm me on discord for discord bots!
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mjk134)](https://github.com/anuraghazra/github-readme-stats)
