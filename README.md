@@ -1,8 +1,7 @@
 ### Hi there 👋
 I'm a python and c# programmer. Dm me on discord for discord bots!
 
-<img src="https://discordapp.com/api/guilds/747168555094638662/widget.png?style=banner3" alt="Discord Banner 3"/>
-
+<iframe src="https://ptb.discord.com/widget?id=747168555094638662&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 <!--
 **mjk134/mjk134** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
