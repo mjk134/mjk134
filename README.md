@@ -1,5 +1,6 @@
 ### Hi there 👋
 ![Discord Banner 1](https://discordapp.com/api/guilds/747168555094638662/widget.png?style=shield)
+<a href="http://google.com.au/" rel="some text">![Foo](http://www.google.com.au/images/nav_logo7.png)</a>
 
 I'm a python and c# programmer. Dm me on discord for discord bots!
 
