@@ -5,7 +5,6 @@
 I'm a python and c# programmer. Dm me on discord for discord bots!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjk134&theme=vision-friendly-dark)
-
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mjk134&theme=vision-friendly-dark)
 
 <!--
