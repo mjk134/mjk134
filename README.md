@@ -1,5 +1,8 @@
 ### Hi there 👋
 I'm a python and c# programmer. Dm me on discord for discord bots!
+
+<img src="https://discordapp.com/api/guilds/747168555094638662/widget.png?style=banner3" alt="Discord Banner 3"/>
+
 <!--
 **mjk134/mjk134** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
