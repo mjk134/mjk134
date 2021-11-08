@@ -2,7 +2,9 @@
 ![Discord Banner 1](https://discordapp.com/api/guilds/747168555094638662/widget.png?style=shield)
 <a href="https://www.fiverr.com/mjk134/an-amazing-discord-bot" rel="some text">![Foo](https://media.discordapp.net/attachments/757321690366607420/786326017748238356/image.png)</a>
 
-I'm a python and c# programmer. Dm me on discord for discord bots!
+I code in several different languages! 
+
+I'm currently working on [cosmosbots/RADI](https://github.com/cosmosbots/RADI) !
 
 <a href="https://github.com/mjk134">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjk134&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
