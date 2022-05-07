@@ -1,8 +1,5 @@
 ### Hi there 👋
-![Discord Banner 1](https://discordapp.com/api/guilds/747168555094638662/widget.png?style=shield)
-<a href="https://www.fiverr.com/mjk134/an-amazing-discord-bot" rel="some text">![Foo](https://media.discordapp.net/attachments/757321690366607420/786326017748238356/image.png)</a>
-
-I code in several different languages! 
+I'm mjk134 or Mohit! I'm an intermediate developer & student. I 🥰 messing with graphics and similiar technologies. Oh and I'm your average gamer & anime enjoyer!
 
 I'm currently working on [cosmosbots/RADI](https://github.com/cosmosbots/RADI) !
 
