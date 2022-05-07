@@ -1,7 +1,8 @@
-## Hi there 👋
+## Hi there! 👋
 I'm mjk134 or Mohit! I'm an intermediate developer & student. I 🥰 messing with graphics and similiar technologies. Oh and I'm your average gamer & anime enjoyer! 
 🔭 I'm currently working on an [@solana](https://github.com/solana-labs/) casino!
 
+## 📈 GitHub Stats
 <a href="https://github.com/mjk134">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjk134&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
