@@ -1,6 +1,6 @@
 ## Hi there! 👋
 I'm mjk134 or Mohit! I'm an intermediate developer & student. I 🥰 messing with graphics and similiar technologies. Oh and I'm your average gamer & anime enjoyer! 
-🔭 I'm currently working on ...!
+🔭 I'm currently working on [aurora](https://github.com/mjk134/aurora)!
 
 ## 📈 GitHub Stats
 <a href="https://github.com/mjk134">
