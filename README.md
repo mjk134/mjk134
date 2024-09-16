@@ -1,5 +1,5 @@
 ## Hi there! 👋
-I'm mjk134 or Mohit! I'm an intermediate developer & student. I 🥰 messing with graphics and similiar technologies. Oh and I'm your average gamer & anime enjoyer! 
+I'm mjk134 or Mohit! I'm an intermediate developer & student. I love messing with graphics and similiar technologies. 
 🔭 I'm currently working on [Moniker](https://github.com/mnkrcc)!
 
 ## 📈 GitHub Stats
