@@ -1,6 +1,6 @@
 ## Hi there! 👋
 I'm mjk134 or Mohit! I'm an intermediate developer & student. I love messing with graphics and similiar technologies. 
-🔭 I'm currently working on [Moniker](https://github.com/mnkrcc)!
+🔭 I'm currently working on [Grooop](https://github.com/Groop-Labs-Dev)!
 
 ## 📈 GitHub Stats
 <!-- <a href="https://github.com/mjk134">
