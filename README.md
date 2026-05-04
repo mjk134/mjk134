@@ -3,8 +3,10 @@ I'm mjk134 or Mohit! I'm an intermediate developer & student. I love messing wit
 🔭 I'm currently working on [Grooop](https://github.com/Groop-Labs-Dev)!
 
 ## 📈 GitHub Stats
+<!-- 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mjk134&label=Profile%20views&color=0e75b6&style=flat" alt="mjk134" /> </p>
-<!-- <a href="https://github.com/mjk134">
+
+<a href="https://github.com/mjk134">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjk134&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/mjk134">
@@ -96,9 +98,9 @@ TeX                      1 repo              ░░░░░░░░░░░�
  Last Updated on 04/05/2026 16:47:33 UTC
 <!--END_SECTION:waka-->
 
+<!--
 [![GitHub Streak](https://streak-stats.demolab.com?user=mjk134&theme=tokyonight)](https://git.io/streak-stats)
 
-<!--
 **mjk134/mjk134** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
