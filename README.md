@@ -14,7 +14,7 @@ I'm mjk134 or Mohit! I'm an intermediate developer & student. I love messing wit
 </a> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-173%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-172%20hrs%2028%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -22,7 +22,7 @@ I'm mjk134 or Mohit! I'm an intermediate developer & student. I love messing wit
 
 > 📦 631.5 kB Used in GitHub's Storage 
  > 
-> 🏆 175 Contributions in the Year 2026
+> 🏆 176 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -33,21 +33,21 @@ I'm mjk134 or Mohit! I'm an intermediate developer & student. I love messing wit
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                628 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
-🌆 Daytime                1806 commits        ████████░░░░░░░░░░░░░░░░░   30.96 % 
-🌃 Evening                3005 commits        █████████████░░░░░░░░░░░░   51.52 % 
+🌞 Morning                628 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
+🌆 Daytime                1808 commits        ████████░░░░░░░░░░░░░░░░░   30.99 % 
+🌃 Evening                3005 commits        █████████████░░░░░░░░░░░░   51.50 % 
 🌙 Night                  394 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   629 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
+Monday                   631 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
 Tuesday                  556 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
-Wednesday                1009 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.30 % 
-Thursday                 701 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
+Wednesday                1009 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
+Thursday                 701 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
 Friday                   1147 commits        █████░░░░░░░░░░░░░░░░░░░░   19.66 % 
-Saturday                 989 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
-Sunday                   802 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
+Saturday                 989 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
+Sunday                   802 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
 ```
 
 
@@ -95,7 +95,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mjk134/mjk134/main/assets/bar_graph.png)
 
 
- Last Updated on 04/05/2026 16:47:33 UTC
+ Last Updated on 05/05/2026 01:33:01 UTC
 <!--END_SECTION:waka-->
 
 <!--
