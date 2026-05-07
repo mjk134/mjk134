@@ -14,7 +14,7 @@ I'm mjk134 or Mohit! I'm an intermediate developer & student. I love messing wit
 </a> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-173%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-175%20hrs%2028%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -57,25 +57,25 @@ Sunday                   802 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-C                        1 hr 49 mins        █████████░░░░░░░░░░░░░░░░   35.11 % 
-Python                   1 hr 27 mins        ███████░░░░░░░░░░░░░░░░░░   28.25 % 
-C++                      1 hr 4 mins         █████░░░░░░░░░░░░░░░░░░░░   20.86 % 
-Markdown                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
-CMake                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
+Python                   1 hr 58 mins        ████████░░░░░░░░░░░░░░░░░   31.49 % 
+C                        1 hr 41 mins        ███████░░░░░░░░░░░░░░░░░░   26.94 % 
+C++                      1 hr 40 mins        ███████░░░░░░░░░░░░░░░░░░   26.70 % 
+TeX                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
+CMake                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 11 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 16 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-momo-plus-plus           2 hrs 23 mins       ████████████░░░░░░░░░░░░░   46.02 % 
-WebGPU-Testbench         1 hr 14 mins        ██████░░░░░░░░░░░░░░░░░░░   23.94 % 
-lab5                     1 hr 10 mins        ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
-cw2_15212_TEST           17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
-CV                       3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+momo-plus-plus           2 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   32.35 % 
+WebGPU-Testbench         1 hr 54 mins        ████████░░░░░░░░░░░░░░░░░   30.29 % 
+lab5                     1 hr 53 mins        ████████░░░░░░░░░░░░░░░░░   30.14 % 
+finalreport              18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+lab4                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
 
 💻 Operating System: 
-Windows                  4 hrs 50 mins       ███████████████████████░░   93.32 % 
-Linux                    20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
+Windows                  5 hrs 56 mins       ████████████████████████░   94.64 % 
+Linux                    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -95,7 +95,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mjk134/mjk134/main/assets/bar_graph.png)
 
 
- Last Updated on 06/05/2026 01:32:21 UTC
+ Last Updated on 07/05/2026 01:50:13 UTC
 <!--END_SECTION:waka-->
 
 <!--
