@@ -57,25 +57,24 @@ Sunday                   802 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Python                   4 hrs 49 mins       █████████████████░░░░░░░░   68.57 % 
-C++                      1 hr 40 mins        ██████░░░░░░░░░░░░░░░░░░░   23.79 % 
-TeX                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
-CMake                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+Python                   4 hrs 49 mins       █████████████████████░░░░   83.33 % 
+C++                      35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+TeX                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
+CMake                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+BibTeX                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 2 mins        █████████████████████████   100.00 % 
+VS Code                  5 hrs 47 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-lab5                     4 hrs 44 mins       █████████████████░░░░░░░░   67.37 % 
-WebGPU-Testbench         1 hr 54 mins        ███████░░░░░░░░░░░░░░░░░░   27.08 % 
-finalreport              18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-lab4                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
-glfw                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+lab5                     4 hrs 44 mins       ████████████████████░░░░░   81.87 % 
+WebGPU-Testbench         39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
+finalreport              18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
+lab4                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
 
 💻 Operating System: 
-Windows                  6 hrs 44 mins       ████████████████████████░   95.65 % 
-Linux                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+Windows                  5 hrs 29 mins       ████████████████████████░   94.72 % 
+Linux                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -95,7 +94,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mjk134/mjk134/main/assets/bar_graph.png)
 
 
- Last Updated on 12/05/2026 01:52:49 UTC
+ Last Updated on 13/05/2026 01:57:41 UTC
 <!--END_SECTION:waka-->
 
 <!--
