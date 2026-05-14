@@ -57,24 +57,16 @@ Sunday                   802 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Python                   4 hrs 49 mins       █████████████████████░░░░   83.33 % 
-C++                      35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
-TeX                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
-CMake                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
-BibTeX                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Python                   4 hrs 1 min         █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 47 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 1 min         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-lab5                     4 hrs 44 mins       ████████████████████░░░░░   81.87 % 
-WebGPU-Testbench         39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
-finalreport              18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
-lab4                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+lab5                     4 hrs 1 min         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  5 hrs 29 mins       ████████████████████████░   94.72 % 
-Linux                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
+Windows                  4 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -94,7 +86,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mjk134/mjk134/main/assets/bar_graph.png)
 
 
- Last Updated on 13/05/2026 01:57:41 UTC
+ Last Updated on 14/05/2026 02:01:01 UTC
 <!--END_SECTION:waka-->
 
 <!--
