@@ -14,8 +14,6 @@ I'm mjk134 or Mohit! I'm an intermediate developer & student. I love messing wit
 </a> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-179%20hrs%2030%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -30,45 +28,6 @@ I'm mjk134 or Mohit! I'm an intermediate developer & student. I love messing wit
  > 
 > 🔑 39 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                628 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
-🌆 Daytime                1808 commits        ████████░░░░░░░░░░░░░░░░░   30.99 % 
-🌃 Evening                3005 commits        █████████████░░░░░░░░░░░░   51.50 % 
-🌙 Night                  394 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   631 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
-Tuesday                  556 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
-Wednesday                1009 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
-Thursday                 701 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
-Friday                   1147 commits        █████░░░░░░░░░░░░░░░░░░░░   19.66 % 
-Saturday                 989 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
-Sunday                   802 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/London
-
-💬 Programming Languages: 
-Python                   4 hrs 1 min         █████████████████████████   100.00 % 
-
-🔥 Editors: 
-VS Code                  4 hrs 1 min         █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-lab5                     4 hrs 1 min         █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  4 hrs 1 min         █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -86,7 +45,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mjk134/mjk134/main/assets/bar_graph.png)
 
 
- Last Updated on 14/05/2026 02:01:01 UTC
+ Last Updated on 15/05/2026 01:58:31 UTC
 <!--END_SECTION:waka-->
 
 <!--
