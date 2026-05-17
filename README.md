@@ -57,17 +57,16 @@ Sunday                   802 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Python                   41 mins             █████████████████████████   100.00 % 
+Python                   9 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  41 mins             █████████████████████████   100.00 % 
+VS Code                  9 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-lab5                     31 mins             ███████████████████░░░░░░   76.93 % 
-Unknown Project          9 mins              ██████░░░░░░░░░░░░░░░░░░░   23.07 % 
+Unknown Project          9 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  41 mins             █████████████████████████   100.00 % 
+Windows                  9 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -87,7 +86,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mjk134/mjk134/main/assets/bar_graph.png)
 
 
- Last Updated on 16/05/2026 01:51:24 UTC
+ Last Updated on 17/05/2026 01:55:07 UTC
 <!--END_SECTION:waka-->
 
 <!--
