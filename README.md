@@ -14,6 +14,8 @@ I'm mjk134 or Mohit! I'm an intermediate developer & student. I love messing wit
 </a> -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-181%20hrs%202%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -28,6 +30,50 @@ I'm mjk134 or Mohit! I'm an intermediate developer & student. I love messing wit
  > 
 > 🔑 39 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                628 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
+🌆 Daytime                1808 commits        ████████░░░░░░░░░░░░░░░░░   30.98 % 
+🌃 Evening                3006 commits        █████████████░░░░░░░░░░░░   51.51 % 
+🌙 Night                  394 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   631 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+Tuesday                  556 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
+Wednesday                1009 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
+Thursday                 702 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
+Friday                   1147 commits        █████░░░░░░░░░░░░░░░░░░░░   19.65 % 
+Saturday                 989 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
+Sunday                   802 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/London
+
+💬 Programming Languages: 
+C++                      44 mins             ██████████████████░░░░░░░   72.89 % 
+Markdown                 9 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
+C                        4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
+Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
+INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+
+🔥 Editors: 
+VS Code                  1 hr 1 min          █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+Airless_Transmitter_cpp  1 hr                █████████████████████████   99.38 % 
+WebGPU-Testbench         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+
+💻 Operating System: 
+Windows                  1 hr 1 min          █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -45,7 +91,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mjk134/mjk134/main/assets/bar_graph.png)
 
 
- Last Updated on 29/05/2026 02:02:08 UTC
+ Last Updated on 30/05/2026 01:56:20 UTC
 <!--END_SECTION:waka-->
 
 <!--
