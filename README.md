@@ -57,21 +57,17 @@ Sunday                   802 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-C++                      44 mins             ██████████████████░░░░░░░   72.89 % 
-Markdown                 9 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
-C                        4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
-Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
-INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+C++                      1 min               ████████████████████████░   95.64 % 
+C                        0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
 
 🔥 Editors: 
-VS Code                  1 hr 1 min          █████████████████████████   100.00 % 
+VS Code                  1 min               █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Airless_Transmitter_cpp  1 hr                █████████████████████████   99.38 % 
-WebGPU-Testbench         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+Airless_Transmitter_cpp  1 min               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 1 min          █████████████████████████   100.00 % 
+Windows                  1 min               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -91,7 +87,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mjk134/mjk134/main/assets/bar_graph.png)
 
 
- Last Updated on 04/06/2026 02:33:59 UTC
+ Last Updated on 05/06/2026 02:08:24 UTC
 <!--END_SECTION:waka-->
 
 <!--
