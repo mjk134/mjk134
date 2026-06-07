@@ -14,8 +14,6 @@ I'm mjk134 or Mohit! I'm an intermediate developer & student. I love messing wit
 </a> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-181%20hrs%202%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -30,45 +28,6 @@ I'm mjk134 or Mohit! I'm an intermediate developer & student. I love messing wit
  > 
 > 🔑 39 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                621 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-🌆 Daytime                1798 commits        ████████░░░░░░░░░░░░░░░░░   31.00 % 
-🌃 Evening                2987 commits        █████████████░░░░░░░░░░░░   51.50 % 
-🌙 Night                  394 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   631 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
-Tuesday                  555 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
-Wednesday                997 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
-Thursday                 701 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
-Friday                   1128 commits        █████░░░░░░░░░░░░░░░░░░░░   19.45 % 
-Saturday                 986 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
-Sunday                   802 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/London
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -86,7 +45,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mjk134/mjk134/main/assets/bar_graph.png)
 
 
- Last Updated on 06/06/2026 01:59:26 UTC
+ Last Updated on 07/06/2026 02:15:35 UTC
 <!--END_SECTION:waka-->
 
 <!--
