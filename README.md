@@ -57,22 +57,21 @@ Sunday                   802 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Python                   1 hr 19 mins        ███████████████████████░░   90.08 % 
-Docker                   6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-CSV                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
-TeX                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Python                   8 mins              ████████████░░░░░░░░░░░░░   49.56 % 
+Docker                   6 mins              ██████████░░░░░░░░░░░░░░░   39.20 % 
+CSV                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
+Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+TeX                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 
 🔥 Editors: 
-VS Code                  1 hr 28 mins        █████████████████████████   100.00 % 
+VS Code                  17 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-DataAnnotation           1 hr 11 mins        ████████████████████░░░░░   80.54 % 
-IEUK                     17 mins             █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
-CV                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+IEUK                     17 mins             █████████████████████████   98.75 % 
+CV                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 
 💻 Operating System: 
-Windows                  1 hr 28 mins        █████████████████████████   100.00 % 
+Windows                  17 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -92,7 +91,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mjk134/mjk134/main/assets/bar_graph.png)
 
 
- Last Updated on 20/06/2026 02:08:50 UTC
+ Last Updated on 21/06/2026 02:32:11 UTC
 <!--END_SECTION:waka-->
 
 <!--
