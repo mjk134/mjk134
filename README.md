@@ -14,7 +14,7 @@ I'm mjk134 or Mohit! I'm an intermediate developer & student. I love messing wit
 </a> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-182%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-183%20hrs%2012%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -57,21 +57,22 @@ Sunday                   802 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Python                   8 mins              ████████████░░░░░░░░░░░░░   49.56 % 
-Docker                   6 mins              ██████████░░░░░░░░░░░░░░░   39.20 % 
-CSV                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
-Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
-TeX                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+Markdown                 33 mins             ███████████████████████░░   92.11 % 
+Text                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+Docker                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
 
 🔥 Editors: 
-VS Code                  17 mins             █████████████████████████   100.00 % 
+Antigravity Desktop      33 mins             ███████████████████████░░   92.11 % 
+VS Code                  2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
 
 🐱‍💻 Projects: 
-IEUK                     17 mins             █████████████████████████   98.75 % 
-CV                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+scratch                  33 mins             ███████████████████████░░   90.39 % 
+IEUK                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
+input_files              1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
 
 💻 Operating System: 
-Windows                  17 mins             █████████████████████████   100.00 % 
+Windows                  36 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -91,7 +92,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mjk134/mjk134/main/assets/bar_graph.png)
 
 
- Last Updated on 25/06/2026 02:05:27 UTC
+ Last Updated on 26/06/2026 02:07:18 UTC
 <!--END_SECTION:waka-->
 
 <!--
