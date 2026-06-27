@@ -57,22 +57,19 @@ Sunday                   802 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Markdown                 33 mins             ███████████████████████░░   92.11 % 
-Text                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
-Docker                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+Markdown                 33 mins             ████████████████████████░   96.85 % 
+Text                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
 
 🔥 Editors: 
-Antigravity Desktop      33 mins             ███████████████████████░░   92.11 % 
-VS Code                  2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+Antigravity Desktop      33 mins             ████████████████████████░   96.85 % 
+VS Code                  1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
 
 🐱‍💻 Projects: 
-scratch                  33 mins             ███████████████████████░░   90.39 % 
-IEUK                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
-input_files              1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+scratch                  33 mins             ████████████████████████░   95.05 % 
+input_files              1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
 
 💻 Operating System: 
-Windows                  36 mins             █████████████████████████   100.00 % 
+Windows                  35 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -92,7 +89,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mjk134/mjk134/main/assets/bar_graph.png)
 
 
- Last Updated on 26/06/2026 02:07:18 UTC
+ Last Updated on 27/06/2026 02:01:01 UTC
 <!--END_SECTION:waka-->
 
 <!--
