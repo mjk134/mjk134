@@ -57,25 +57,25 @@ Sunday                   802 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-JSON                     55 mins             ██████████████░░░░░░░░░░░   56.19 % 
-Markdown                 34 mins             █████████░░░░░░░░░░░░░░░░   35.54 % 
-Text                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
-Diff                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+JSON                     55 mins             ████████████████░░░░░░░░░   63.40 % 
+Markdown                 24 mins             ███████░░░░░░░░░░░░░░░░░░   28.02 % 
+Text                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+Diff                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🔥 Editors: 
-VS Code                  1 hr 4 mins         ████████████████░░░░░░░░░   65.39 % 
-Antigravity Desktop      33 mins             █████████░░░░░░░░░░░░░░░░   34.61 % 
+VS Code                  1 hr 13 mins        █████████████████████░░░░   84.48 % 
+Antigravity Desktop      13 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
 
 🐱‍💻 Projects: 
-Unknown Project          55 mins             ██████████████░░░░░░░░░░░   56.19 % 
-scratch                  33 mins             ████████░░░░░░░░░░░░░░░░░   33.96 % 
-projects                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
-meridian-incident-inputs(3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
-input_files              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+Unknown Project          55 mins             ████████████████░░░░░░░░░   63.40 % 
+meridian-incident-inputs(13 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
+inputs                   9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
+05c1338a-5118-41e3-81e7-34 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+projects                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
 
 💻 Operating System: 
-Windows                  1 hr 38 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 26 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -95,7 +95,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mjk134/mjk134/main/assets/bar_graph.png)
 
 
- Last Updated on 02/07/2026 02:05:18 UTC
+ Last Updated on 03/07/2026 01:48:45 UTC
 <!--END_SECTION:waka-->
 
 <!--
