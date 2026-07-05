@@ -57,23 +57,19 @@ Sunday                   802 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-JSON                     55 mins             ███████████████████░░░░░░   75.05 % 
-Markdown                 10 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
-Text                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
-Diff                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+JSON                     55 mins             ███████████████████████░░   93.25 % 
+Text                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
 
 🔥 Editors: 
-VS Code                  1 hr 13 mins        █████████████████████████   100.00 % 
+VS Code                  59 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          55 mins             ███████████████████░░░░░░   75.05 % 
-meridian-incident-inputs(13 mins             █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
-projects                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
-05c1338a-5118-41e3-81e7-30 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+Unknown Project          55 mins             ███████████████████████░░   93.25 % 
+projects                 3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
 
 💻 Operating System: 
-Windows                  1 hr 13 mins        █████████████████████████   100.00 % 
+Windows                  59 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -93,7 +89,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mjk134/mjk134/main/assets/bar_graph.png)
 
 
- Last Updated on 04/07/2026 01:47:53 UTC
+ Last Updated on 05/07/2026 01:51:47 UTC
 <!--END_SECTION:waka-->
 
 <!--
