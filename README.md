@@ -57,19 +57,16 @@ Sunday                   802 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-JSON                     55 mins             ███████████████████████░░   93.25 % 
-Text                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+JSON                     55 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  59 mins             █████████████████████████   100.00 % 
+VS Code                  55 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          55 mins             ███████████████████████░░   93.25 % 
-projects                 3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+Unknown Project          55 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  59 mins             █████████████████████████   100.00 % 
+Windows                  55 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -89,7 +86,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mjk134/mjk134/main/assets/bar_graph.png)
 
 
- Last Updated on 07/07/2026 01:55:21 UTC
+ Last Updated on 08/07/2026 01:25:59 UTC
 <!--END_SECTION:waka-->
 
 <!--
