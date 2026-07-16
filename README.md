@@ -14,7 +14,7 @@ I'm mjk134 or Mohit! I'm an intermediate developer & student. I love messing wit
 </a> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-184%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-184%20hrs%2049%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -57,19 +57,22 @@ Sunday                   802 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Python                   13 mins             ██████████████████░░░░░░░   71.55 % 
-ObjectPascal             4 mins              ███████░░░░░░░░░░░░░░░░░░   26.18 % 
-JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Python                   13 mins             ██████████░░░░░░░░░░░░░░░   39.61 % 
+Other                    6 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
+Markdown                 5 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
+ObjectPascal             4 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
+PowerShell               2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
 
 🔥 Editors: 
-VS Code                  19 mins             █████████████████████████   100.00 % 
+VS Code                  23 mins             █████████████████░░░░░░░░   69.67 % 
+Antigravity CLI          10 mins             ████████░░░░░░░░░░░░░░░░░   30.33 % 
 
 🐱‍💻 Projects: 
-altium-mcp               19 mins             █████████████████████████   100.00 % 
+altium-mcp               19 mins             ██████████████░░░░░░░░░░░   55.37 % 
+cosmos-portal            15 mins             ███████████░░░░░░░░░░░░░░   44.63 % 
 
 💻 Operating System: 
-Windows                  19 mins             █████████████████████████   100.00 % 
+Windows                  34 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -89,7 +92,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mjk134/mjk134/main/assets/bar_graph.png)
 
 
- Last Updated on 15/07/2026 01:14:59 UTC
+ Last Updated on 16/07/2026 01:24:37 UTC
 <!--END_SECTION:waka-->
 
 <!--
