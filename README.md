@@ -20,7 +20,7 @@ I'm mjk134 or Mohit! I'm an intermediate developer & student. I love messing wit
 
 **🐱 My GitHub Data** 
 
-> 📦 632.8 kB Used in GitHub's Storage 
+> 📦 632.9 kB Used in GitHub's Storage 
  > 
 > 🏆 179 Contributions in the Year 2026
  > 
@@ -92,7 +92,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mjk134/mjk134/main/assets/bar_graph.png)
 
 
- Last Updated on 16/07/2026 01:24:37 UTC
+ Last Updated on 17/07/2026 01:27:47 UTC
 <!--END_SECTION:waka-->
 
 <!--
