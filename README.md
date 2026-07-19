@@ -14,7 +14,7 @@ I'm mjk134 or Mohit! I'm an intermediate developer & student. I love messing wit
 </a> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-185%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-186%20hrs%2028%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -57,23 +57,23 @@ Sunday                   802 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-TypeScript               51 mins             ████████████░░░░░░░░░░░░░   49.24 % 
-Markdown                 15 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
-Python                   13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
-Other                    6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
-ObjectPascal             4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+TypeScript               1 hr 19 mins        ███████████████░░░░░░░░░░   59.71 % 
+Markdown                 15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
+Python                   13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
+Other                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
+ObjectPascal             4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
 
 🔥 Editors: 
-VS Code                  1 hr 33 mins        ██████████████████████░░░   90.00 % 
-Antigravity CLI          10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+VS Code                  2 hrs 2 mins        ███████████████████████░░   92.13 % 
+Antigravity CLI          10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
 
 🐱‍💻 Projects: 
-context-stealer          1 hr 9 mins         █████████████████░░░░░░░░   67.03 % 
-altium-mcp               19 mins             █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
-cosmos-portal            15 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
+context-stealer          1 hr 38 mins        ███████████████████░░░░░░   74.05 % 
+altium-mcp               19 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
+cosmos-portal            15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
 
 💻 Operating System: 
-Windows                  1 hr 44 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -93,7 +93,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mjk134/mjk134/main/assets/bar_graph.png)
 
 
- Last Updated on 18/07/2026 01:20:08 UTC
+ Last Updated on 19/07/2026 01:25:14 UTC
 <!--END_SECTION:waka-->
 
 <!--
