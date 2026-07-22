@@ -14,7 +14,7 @@ I'm mjk134 or Mohit! I'm an intermediate developer & student. I love messing wit
 </a> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-187%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-187%20hrs%2016%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -57,23 +57,24 @@ Sunday                   802 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-TypeScript               2 hrs 10 mins       ██████████████████░░░░░░░   70.92 % 
-Markdown                 15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
-Python                   13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
-Other                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
-ObjectPascal             4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+TypeScript               2 hrs 10 mins       ███████████████████░░░░░░   75.38 % 
+Markdown                 15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
+Other                    14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
+CSS                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 53 mins       ████████████████████████░   94.32 % 
-Antigravity CLI          10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+VS Code                  2 hrs 42 mins       ███████████████████████░░   93.96 % 
+Antigravity CLI          10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
 
 🐱‍💻 Projects: 
-context-stealer          2 hrs 29 mins       ████████████████████░░░░░   81.27 % 
-altium-mcp               19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
-cosmos-portal            15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
+context-stealer          2 hrs 29 mins       ██████████████████████░░░   86.39 % 
+cosmos-portal            15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+hypr                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
 
 💻 Operating System: 
-Windows                  3 hrs 3 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 44 mins       ████████████████████████░   95.27 % 
+Linux                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -93,7 +94,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mjk134/mjk134/main/assets/bar_graph.png)
 
 
- Last Updated on 21/07/2026 01:25:01 UTC
+ Last Updated on 22/07/2026 01:24:29 UTC
 <!--END_SECTION:waka-->
 
 <!--
