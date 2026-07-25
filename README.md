@@ -28,51 +28,6 @@ I'm mjk134 or Mohit! I'm an intermediate developer & student. I love messing wit
  > 
 > 🔑 39 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                628 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
-🌆 Daytime                1808 commits        ████████░░░░░░░░░░░░░░░░░   30.97 % 
-🌃 Evening                3007 commits        █████████████░░░░░░░░░░░░   51.52 % 
-🌙 Night                  394 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   631 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
-Tuesday                  556 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
-Wednesday                1009 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
-Thursday                 702 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
-Friday                   1147 commits        █████░░░░░░░░░░░░░░░░░░░░   19.65 % 
-Saturday                 990 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
-Sunday                   802 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/London
-
-💬 Programming Languages: 
-TypeScript               2 hrs 10 mins       █████████████████████░░░░   82.73 % 
-Markdown                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
-Other                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
-CSS                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
-
-🔥 Editors: 
-VS Code                  2 hrs 37 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-context-stealer          2 hrs 29 mins       ████████████████████████░   94.81 % 
-hypr                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
-
-💻 Operating System: 
-Windows                  2 hrs 29 mins       ████████████████████████░   94.81 % 
-Linux                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -90,7 +45,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mjk134/mjk134/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 01:27:56 UTC
+ Last Updated on 25/07/2026 01:27:55 UTC
 <!--END_SECTION:waka-->
 
 <!--
