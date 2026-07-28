@@ -14,7 +14,9 @@ I'm mjk134 or Mohit! I'm an intermediate developer & student. I love messing wit
 </a> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-189%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-186%20hrs%2025%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-11%20hrs%202%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -57,20 +59,22 @@ Sunday                   802 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-TypeScript               40 mins             █████████████████████░░░░   83.11 % 
-Other                    8 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Other                    8 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  48 mins             █████████████████████████   100.00 % 
+VS Code                  8 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-context-stealer          40 mins             █████████████████████░░░░   83.13 % 
-hypr                     8 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
+hypr                     8 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  40 mins             █████████████████████░░░░   83.13 % 
-Linux                    8 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
+Linux                    8 mins              █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -90,7 +94,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mjk134/mjk134/main/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2026 01:48:45 UTC
+ Last Updated on 28/07/2026 01:23:19 UTC
 <!--END_SECTION:waka-->
 
 <!--
