@@ -14,7 +14,7 @@ I'm mjk134 or Mohit! I'm an intermediate developer & student. I love messing wit
 </a> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-188%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-188%20hrs%2032%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-11%20hrs%202%20mins-blue?style=flat)
 
@@ -59,18 +59,19 @@ Sunday                   802 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Go                       1 hr 56 mins        ████████████████████████░   96.06 % 
-Bash                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+Go                       1 hr 40 mins        ███████████████████████░░   90.79 % 
+C++                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+Bash                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 1 min         █████████████████████████   100.00 % 
+VS Code                  1 hr 50 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-feefree                  1 hr 44 mins        ██████████████████████░░░   86.63 % 
-spotify-cider-bridge     16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+feefree                  1 hr 44 mins        ████████████████████████░   95.12 % 
+Unknown Project          5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
 
 💻 Operating System: 
-Windows                  2 hrs 1 min         █████████████████████████   100.00 % 
+Windows                  1 hr 50 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -96,7 +97,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mjk134/mjk134/main/assets/bar_graph.png)
 
 
- Last Updated on 17/08/2026 00:34:40 UTC
+ Last Updated on 17/08/2026 02:07:58 UTC
 <!--END_SECTION:waka-->
 
 <!--
