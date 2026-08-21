@@ -59,19 +59,16 @@ Sunday                   802 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Go                       1 hr 40 mins        ███████████████████████░░   90.79 % 
-C++                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
-Bash                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
+C++                      5 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  1 hr 50 mins        █████████████████████████   100.00 % 
+VS Code                  5 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-feefree                  1 hr 44 mins        ████████████████████████░   95.12 % 
-Unknown Project          5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+Unknown Project          5 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 50 mins        █████████████████████████   100.00 % 
+Windows                  5 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -97,7 +94,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mjk134/mjk134/main/assets/bar_graph.png)
 
 
- Last Updated on 21/08/2026 00:36:48 UTC
+ Last Updated on 21/08/2026 02:12:06 UTC
 <!--END_SECTION:waka-->
 
 <!--
