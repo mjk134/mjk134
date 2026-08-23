@@ -32,6 +32,51 @@ I'm mjk134 or Mohit! I'm an intermediate developer & student. I love messing wit
  > 
 > 🔑 40 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                628 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
+🌆 Daytime                1808 commits        ████████░░░░░░░░░░░░░░░░░   30.97 % 
+🌃 Evening                3007 commits        █████████████░░░░░░░░░░░░   51.52 % 
+🌙 Night                  394 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   631 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+Tuesday                  556 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
+Wednesday                1009 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
+Thursday                 702 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
+Friday                   1147 commits        █████░░░░░░░░░░░░░░░░░░░░   19.65 % 
+Saturday                 990 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
+Sunday                   802 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/London
+
+💬 Programming Languages: 
+C++                      5 mins              █████████████████████████   100.00 % 
+
+🔥 Editors: 
+VS Code                  5 mins              █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+Unknown Project          5 mins              █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  5 mins              █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -49,7 +94,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mjk134/mjk134/main/assets/bar_graph.png)
 
 
- Last Updated on 22/08/2026 02:01:56 UTC
+ Last Updated on 23/08/2026 00:37:30 UTC
 <!--END_SECTION:waka-->
 
 <!--
