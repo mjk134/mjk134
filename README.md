@@ -16,7 +16,7 @@ I'm mjk134 or Mohit! I'm an intermediate developer & student. I love messing wit
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-188%20hrs%2032%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-11%20hrs%202%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-11%20hrs%208%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -108,7 +108,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mjk134/mjk134/main/assets/bar_graph.png)
 
 
- Last Updated on 27/08/2026 05:28:37 UTC
+ Last Updated on 28/08/2026 07:25:11 UTC
 <!--END_SECTION:waka-->
 
 <!--
