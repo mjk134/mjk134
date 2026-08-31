@@ -16,7 +16,7 @@ I'm mjk134 or Mohit! I'm an intermediate developer & student. I love messing wit
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-188%20hrs%2032%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-11%20hrs%208%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-11%20hrs%2014%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -59,22 +59,22 @@ Sunday                   802 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Other                    6 mins              █████████████████████████   100.00 % 
+Other                    18 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Antigravity CLI          6 mins              █████████████████████████   100.00 % 
+Antigravity CLI          18 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-CV                       6 mins              █████████████████████████   100.00 % 
+CV                       18 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  6 mins              █████████████████████████   100.00 % 
+Windows                  18 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 mins (100.0%)
+⏱ AI Coding Time: 18 mins (100.0%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
@@ -82,12 +82,12 @@ Windows                  6 mins              ███████████�
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 3 AI Prompts
+🧠 3 AI Sessions, 11 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 97 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📄 Detailed Prompter — average 795 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
@@ -108,7 +108,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mjk134/mjk134/main/assets/bar_graph.png)
 
 
- Last Updated on 30/08/2026 02:06:09 UTC
+ Last Updated on 31/08/2026 02:01:41 UTC
 <!--END_SECTION:waka-->
 
 <!--
