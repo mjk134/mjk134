@@ -14,9 +14,9 @@ I'm mjk134 or Mohit! I'm an intermediate developer & student. I love messing wit
 </a> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-188%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-191%20hrs%2040%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-11%20hrs%2014%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-14%20hrs%2052%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -59,36 +59,47 @@ Sunday                   827 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Other                    18 mins             █████████████████████████   100.00 % 
+YAML                     1 hr 23 mins        █████████░░░░░░░░░░░░░░░░   35.42 % 
+Kotlin                   53 mins             ██████░░░░░░░░░░░░░░░░░░░   22.65 % 
+Other                    48 mins             █████░░░░░░░░░░░░░░░░░░░░   20.64 % 
+TypeScript               28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
+Dart                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
 
 🔥 Editors: 
-Antigravity CLI          18 mins             █████████████████████████   100.00 % 
+Claude Code              3 hrs 30 mins       ██████████████████████░░░   88.69 % 
+Antigravity CLI          25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 🐱‍💻 Projects: 
-CV                       18 mins             █████████████████████████   100.00 % 
+groop-test-ui            2 hrs 39 mins       █████████████████░░░░░░░░   67.19 % 
+groop-labs-website       59 mins             ██████░░░░░░░░░░░░░░░░░░░   25.15 % 
+CV                       18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
 
 💻 Operating System: 
-Windows                  18 mins             █████████████████████████   100.00 % 
+Windows                  3 hrs 56 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 mins (100.0%)
+⏱ AI Coding Time: 3 hrs 56 mins (99.71%)
 
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+✍️ 155 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 0 Input Tokens, 0 Output Tokens
+🔤 880,598 Input Tokens, 320,377 Output Tokens
 
-💵 $0.00 Estimated AI Cost This Week
+💵 $46.47 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 11 AI Prompts
+🧠 9 AI Sessions, 40 AI Prompts
+
+Opus                     163 lines           █████████████████████████   100.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📄 Detailed Prompter — average 795 characters per prompt
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 1,890 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -108,7 +119,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mjk134/mjk134/main/assets/bar_graph.png)
 
 
- Last Updated on 01/09/2026 02:23:56 UTC
+ Last Updated on 02/09/2026 01:45:42 UTC
 <!--END_SECTION:waka-->
 
 <!--
