@@ -14,17 +14,17 @@ I'm mjk134 or Mohit! I'm an intermediate developer & student. I love messing wit
 </a> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-193%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-193%20hrs%2053%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-17%20hrs%2047%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-18%20hrs%2011%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 632.9 kB Used in GitHub's Storage 
+> 📦 633.6 kB Used in GitHub's Storage 
  > 
-> 🏆 185 Contributions in the Year 2026
+> 🏆 190 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -35,21 +35,21 @@ I'm mjk134 or Mohit! I'm an intermediate developer & student. I love messing wit
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                631 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
-🌆 Daytime                1844 commits        ████████░░░░░░░░░░░░░░░░░   31.02 % 
-🌃 Evening                3047 commits        █████████████░░░░░░░░░░░░   51.26 % 
-🌙 Night                  422 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
+🌞 Morning                631 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
+🌆 Daytime                1849 commits        ████████░░░░░░░░░░░░░░░░░   31.08 % 
+🌃 Evening                3047 commits        █████████████░░░░░░░░░░░░   51.22 % 
+🌙 Night                  422 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   645 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
-Tuesday                  560 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
-Wednesday                1020 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
-Thursday                 718 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
-Friday                   1163 commits        █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
-Saturday                 1011 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
-Sunday                   827 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
+Monday                   645 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
+Tuesday                  560 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
+Wednesday                1020 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
+Thursday                 723 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
+Friday                   1163 commits        █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
+Saturday                 1011 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
+Sunday                   827 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
 ```
 
 
@@ -59,47 +59,48 @@ Sunday                   827 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Other                    2 hrs 5 mins        ████████░░░░░░░░░░░░░░░░░   30.34 % 
-TypeScript               1 hr 32 mins        ██████░░░░░░░░░░░░░░░░░░░   22.28 % 
-YAML                     1 hr 23 mins        █████░░░░░░░░░░░░░░░░░░░░   20.29 % 
-Kotlin                   53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
-CSS                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+Other                    1 hr 59 mins        ███████░░░░░░░░░░░░░░░░░░   27.13 % 
+TypeScript               1 hr 32 mins        █████░░░░░░░░░░░░░░░░░░░░   20.89 % 
+YAML                     1 hr 25 mins        █████░░░░░░░░░░░░░░░░░░░░   19.28 % 
+Kotlin                   53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
+Dart                     44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
 
 🔥 Editors: 
-Claude Code              5 hrs 54 mins       █████████████████████░░░░   85.63 % 
-Antigravity CLI          54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
-VS Code                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+Claude Code              5 hrs 54 mins       ████████████████████░░░░░   80.30 % 
+Antigravity CLI          48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
+VS Code                  38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
 
 🐱‍💻 Projects: 
-groop-labs-website       3 hrs 27 mins       █████████████░░░░░░░░░░░░   50.24 % 
-groop-test-ui            2 hrs 39 mins       ██████████░░░░░░░░░░░░░░░   38.49 % 
-CV                       46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
+groop-labs-website       3 hrs 27 mins       ████████████░░░░░░░░░░░░░   47.11 % 
+groop-test-ui            3 hrs 12 mins       ███████████░░░░░░░░░░░░░░   43.68 % 
+CV                       40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
 
 💻 Operating System: 
-Windows                  6 hrs 53 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 47 mins       ███████████████████████░░   92.41 % 
+Mac                      33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 50 mins (99.28%)
+⏱ AI Coding Time: 7 hrs 8 mins (97.18%)
 
-✍️ 155 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 155 lines written by AI, 4 lines written by hand (97.48% AI-written)
 
 🔤 1,625,032 Input Tokens, 568,629 Output Tokens
 
 💵 $104.74 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 66 AI Prompts
+🧠 12 AI Sessions, 66 AI Prompts
 
 Opus                     163 lines           █████████████████████████   100.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 1,542 characters per prompt
+🤖 AI-Driven — 97.48% of written lines came from AI
+📚 Verbose Prompter — average 1,561 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🚀 High AI Trust — 8.43% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -119,7 +120,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mjk134/mjk134/main/assets/bar_graph.png)
 
 
- Last Updated on 03/09/2026 01:51:09 UTC
+ Last Updated on 04/09/2026 01:44:33 UTC
 <!--END_SECTION:waka-->
 
 <!--
