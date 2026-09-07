@@ -59,31 +59,31 @@ Sunday                   827 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Dart                     2 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   27.15 % 
-Other                    1 hr 54 mins        █████░░░░░░░░░░░░░░░░░░░░   18.67 % 
-TypeScript               1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
-YAML                     1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
-Kotlin                   53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
+Dart                     2 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   27.45 % 
+Other                    1 hr 47 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.77 % 
+TypeScript               1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
+YAML                     1 hr 25 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
+Kotlin                   53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
 
 🔥 Editors: 
-Claude Code              8 hrs 6 mins        ████████████████████░░░░░   79.51 % 
-Antigravity CLI          1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
-VS Code                  1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
+Claude Code              8 hrs 6 mins        ████████████████████░░░░░   80.38 % 
+VS Code                  1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
+Antigravity CLI          57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
 
 🐱‍💻 Projects: 
-groop-test-ui            5 hrs 42 mins       ██████████████░░░░░░░░░░░   56.03 % 
-groop-labs-website       3 hrs 28 mins       █████████░░░░░░░░░░░░░░░░   34.12 % 
-CV                       1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
+groop-test-ui            5 hrs 42 mins       ██████████████░░░░░░░░░░░   56.64 % 
+groop-labs-website       3 hrs 28 mins       █████████░░░░░░░░░░░░░░░░   34.50 % 
+CV                       53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
 
 💻 Operating System: 
-Windows                  9 hrs 20 mins       ███████████████████████░░   91.60 % 
-Mac                      51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
+Windows                  9 hrs 13 mins       ███████████████████████░░   91.51 % 
+Mac                      51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 39 mins (94.7%)
+⏱ AI Coding Time: 9 hrs 32 mins (94.64%)
 
 ✍️ 2,129 lines written by AI, 7 lines written by hand (99.67% AI-written)
 
@@ -91,14 +91,14 @@ Mac                      51 mins             ██░░░░░░░░░�
 
 💵 $147.00 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 94 AI Prompts
+🧠 15 AI Sessions, 90 AI Prompts
 
 Opus                     2,457 lines         █████████████████████████   100.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.67% of written lines came from AI
-📄 Detailed Prompter — average 1,419 characters per prompt
+📄 Detailed Prompter — average 1,438 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 9.44% of changed lines were hand-edited
 ```
@@ -120,7 +120,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mjk134/mjk134/main/assets/bar_graph.png)
 
 
- Last Updated on 06/09/2026 01:39:58 UTC
+ Last Updated on 07/09/2026 01:37:27 UTC
 <!--END_SECTION:waka-->
 
 <!--
