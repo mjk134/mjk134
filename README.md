@@ -16,7 +16,7 @@ I'm mjk134 or Mohit! I'm an intermediate developer & student. I love messing wit
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-195%20hrs%2054%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-21%20hrs%2051%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-22%20hrs%202%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -59,48 +59,47 @@ Sunday                   827 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Other                    3 hrs 37 mins       ███████░░░░░░░░░░░░░░░░░░   29.04 % 
-Dart                     2 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   22.13 % 
-TypeScript               1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
-YAML                     1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
-Kotlin                   53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
+Other                    3 hrs 18 mins       █████████░░░░░░░░░░░░░░░░   36.55 % 
+Dart                     2 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   28.32 % 
+TypeScript               1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
+CSS                      52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
+HTML                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
 
 🔥 Editors: 
-Claude Code              10 hrs 19 mins      █████████████████████░░░░   82.53 % 
-VS Code                  1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
-Antigravity CLI          57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
+Claude Code              7 hrs               ███████████████████░░░░░░   77.44 % 
+VS Code                  1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
+Antigravity CLI          49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
 
 🐱‍💻 Projects: 
-groop-labs-website       5 hrs 54 mins       ████████████░░░░░░░░░░░░░   47.18 % 
-groop-test-ui            5 hrs 42 mins       ███████████░░░░░░░░░░░░░░   45.67 % 
-CV                       53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+groop-labs-website       5 hrs 5 mins        ██████████████░░░░░░░░░░░   56.32 % 
+groop-test-ui            3 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   33.81 % 
+CV                       53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
 
 💻 Operating System: 
-Windows                  11 hrs 39 mins      ███████████████████████░░   93.16 % 
-Mac                      51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
+Windows                  8 hrs 11 mins       ███████████████████████░░   90.54 % 
+Mac                      51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 48 mins (94.4%)
+⏱ AI Coding Time: 8 hrs 21 mins (92.39%)
 
-✍️ 2,129 lines written by AI, 10 lines written by hand (99.53% AI-written)
+✍️ 1,974 lines written by AI, 10 lines written by hand (99.5% AI-written)
 
-🔤 3,162,640 Input Tokens, 936,163 Output Tokens
+🔤 2,302,386 Input Tokens, 632,283 Output Tokens
 
-💵 $173.07 Estimated AI Cost This Week
+💵 $131.48 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 108 AI Prompts
+🧠 11 AI Sessions, 81 AI Prompts
 
-Opus                     2,457 lines         █████████████████████████   100.00 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     2,294 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.53% of written lines came from AI
-📄 Detailed Prompter — average 1,341 characters per prompt
+🤖 AI-Driven — 99.5% of written lines came from AI
+📄 Detailed Prompter — average 965 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 9.8% of changed lines were hand-edited
+🚀 High AI Trust — 10.43% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -120,7 +119,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mjk134/mjk134/main/assets/bar_graph.png)
 
 
- Last Updated on 08/09/2026 01:48:17 UTC
+ Last Updated on 09/09/2026 01:55:19 UTC
 <!--END_SECTION:waka-->
 
 <!--
