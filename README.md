@@ -16,7 +16,7 @@ I'm mjk134 or Mohit! I'm an intermediate developer & student. I love messing wit
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-195%20hrs%2054%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-22%20hrs%202%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-22%20hrs%2014%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -59,46 +59,46 @@ Sunday                   827 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Other                    3 hrs 18 mins       █████████░░░░░░░░░░░░░░░░   36.55 % 
-Dart                     2 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   28.32 % 
-TypeScript               1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
-CSS                      52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
-HTML                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+Dart                     2 hrs 33 mins       ██████████░░░░░░░░░░░░░░░   40.74 % 
+Other                    2 hrs 13 mins       █████████░░░░░░░░░░░░░░░░   35.49 % 
+CSS                      33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
+TeX                      25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+HTML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
 
 🔥 Editors: 
-Claude Code              7 hrs               ███████████████████░░░░░░   77.44 % 
-VS Code                  1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
-Antigravity CLI          49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
+Claude Code              4 hrs 48 mins       ███████████████████░░░░░░   76.56 % 
+VS Code                  1 hr 7 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.93 % 
+Antigravity CLI          20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
 
 🐱‍💻 Projects: 
-groop-labs-website       5 hrs 5 mins        ██████████████░░░░░░░░░░░   56.32 % 
-groop-test-ui            3 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   33.81 % 
-CV                       53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
+groop-test-ui            3 hrs 3 mins        ████████████░░░░░░░░░░░░░   48.63 % 
+groop-labs-website       2 hrs 48 mins       ███████████░░░░░░░░░░░░░░   44.70 % 
+CV                       25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
 
 💻 Operating System: 
-Windows                  8 hrs 11 mins       ███████████████████████░░   90.54 % 
-Mac                      51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
+Windows                  5 hrs 25 mins       ██████████████████████░░░   86.39 % 
+Mac                      51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 21 mins (92.39%)
+⏱ AI Coding Time: 5 hrs 38 mins (89.71%)
 
 ✍️ 1,974 lines written by AI, 10 lines written by hand (99.5% AI-written)
 
-🔤 2,302,386 Input Tokens, 632,283 Output Tokens
+🔤 1,662,585 Input Tokens, 411,066 Output Tokens
 
-💵 $131.48 Estimated AI Cost This Week
+💵 $93.12 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 81 AI Prompts
+🧠 9 AI Sessions, 55 AI Prompts
 
 Opus                     2,294 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.5% of written lines came from AI
-📄 Detailed Prompter — average 965 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
+📄 Detailed Prompter — average 947 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 10.43% of changed lines were hand-edited
 ```
 
@@ -119,7 +119,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mjk134/mjk134/main/assets/bar_graph.png)
 
 
- Last Updated on 09/09/2026 01:55:19 UTC
+ Last Updated on 10/09/2026 01:51:18 UTC
 <!--END_SECTION:waka-->
 
 <!--
