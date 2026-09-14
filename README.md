@@ -24,20 +24,20 @@ I'm mjk134 or Mohit! I'm an intermediate developer & student. I love messing wit
 
 > 📦 633.6 kB Used in GitHub's Storage 
  > 
-> 🏆 190 Contributions in the Year 2026
+> 🏆 193 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 45 Public Repositories 
+> 📜 46 Public Repositories 
  > 
 > 🔑 40 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                631 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
-🌆 Daytime                1849 commits        ████████░░░░░░░░░░░░░░░░░   31.08 % 
-🌃 Evening                3047 commits        █████████████░░░░░░░░░░░░   51.22 % 
+🌞 Morning                631 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
+🌆 Daytime                1851 commits        ████████░░░░░░░░░░░░░░░░░   31.10 % 
+🌃 Evening                3047 commits        █████████████░░░░░░░░░░░░   51.20 % 
 🌙 Night                  422 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
 ```
 📅 **I'm Most Productive on Friday** 
@@ -45,11 +45,11 @@ I'm mjk134 or Mohit! I'm an intermediate developer & student. I love messing wit
 ```text
 Monday                   645 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
 Tuesday                  560 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
-Wednesday                1020 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
+Wednesday                1020 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
 Thursday                 723 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
-Friday                   1163 commits        █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
+Friday                   1163 commits        █████░░░░░░░░░░░░░░░░░░░░   19.54 % 
 Saturday                 1011 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
-Sunday                   827 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
+Sunday                   829 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
 ```
 
 
@@ -99,11 +99,11 @@ Opus                     0 lines             ░░░░░░░░░░░�
 **I Mostly Code in JavaScript** 
 
 ```text
-TypeScript               16 repos            █████░░░░░░░░░░░░░░░░░░░░   19.75 % 
-Go                       3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-Dart                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
-C                        1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
-TeX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+JavaScript               25 repos            ████████░░░░░░░░░░░░░░░░░   30.49 % 
+TypeScript               16 repos            █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
+Dart                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+C                        1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+TeX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
 ```
 
 
@@ -113,7 +113,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mjk134/mjk134/main/assets/bar_graph.png)
 
 
- Last Updated on 13/09/2026 01:46:47 UTC
+ Last Updated on 14/09/2026 02:05:18 UTC
 <!--END_SECTION:waka-->
 
 <!--
