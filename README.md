@@ -59,42 +59,42 @@ Sunday                   829 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Markdown                 35 mins             ███████████░░░░░░░░░░░░░░   42.02 % 
-Other                    26 mins             ████████░░░░░░░░░░░░░░░░░   31.13 % 
-CSS                      12 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
-JavaScript               9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+Markdown                 35 mins             ████████████░░░░░░░░░░░░░   48.96 % 
+Other                    14 mins             █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
+CSS                      12 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
+JavaScript               9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
 
 🔥 Editors: 
-Claude Code              1 hr 22 mins        ████████████████████████░   96.87 % 
-VS Code                  2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+Claude Code              1 hr 10 mins        ████████████████████████░   96.35 % 
+VS Code                  2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
 
 🐱‍💻 Projects: 
-guess-the-leetcode       58 mins             █████████████████░░░░░░░░   68.87 % 
-groop-labs-website       26 mins             ████████░░░░░░░░░░░░░░░░░   31.13 % 
+guess-the-leetcode       58 mins             ████████████████████░░░░░   80.23 % 
+groop-labs-website       14 mins             █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
 
 💻 Operating System: 
-Windows                  1 hr 24 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 12 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 24 mins (99.9%)
+⏱ AI Coding Time: 1 hr 12 mins (99.88%)
 
 ✍️ 2,520 lines written by AI, 2 lines written by hand (99.92% AI-written)
 
-🔤 363,935 Input Tokens, 198,181 Output Tokens
+🔤 357,035 Input Tokens, 188,516 Output Tokens
 
-💵 $29.21 Estimated AI Cost This Week
+💵 $26.50 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 5 AI Prompts
+🧠 2 AI Sessions, 4 AI Prompts
 
 Opus                     2,520 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.92% of written lines came from AI
-📝 Concise Prompter — average 83 characters per prompt
+📝 Concise Prompter — average 93 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.08% of changed lines were hand-edited
 ```
@@ -116,7 +116,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mjk134/mjk134/main/assets/bar_graph.png)
 
 
- Last Updated on 15/09/2026 02:12:40 UTC
+ Last Updated on 16/09/2026 02:05:12 UTC
 <!--END_SECTION:waka-->
 
 <!--
