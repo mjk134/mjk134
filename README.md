@@ -24,7 +24,7 @@ I'm mjk134 or Mohit! I'm an intermediate developer & student. I love messing wit
 
 > 📦 633.7 kB Used in GitHub's Storage 
  > 
-> 🏆 193 Contributions in the Year 2026
+> 🏆 194 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -36,8 +36,8 @@ I'm mjk134 or Mohit! I'm an intermediate developer & student. I love messing wit
 
 ```text
 🌞 Morning                631 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
-🌆 Daytime                1851 commits        ████████░░░░░░░░░░░░░░░░░   31.10 % 
-🌃 Evening                3047 commits        █████████████░░░░░░░░░░░░   51.20 % 
+🌆 Daytime                1852 commits        ████████░░░░░░░░░░░░░░░░░   31.12 % 
+🌃 Evening                3047 commits        █████████████░░░░░░░░░░░░   51.19 % 
 🌙 Night                  422 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
 ```
 📅 **I'm Most Productive on Friday** 
@@ -45,7 +45,7 @@ I'm mjk134 or Mohit! I'm an intermediate developer & student. I love messing wit
 ```text
 Monday                   645 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
 Tuesday                  560 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
-Wednesday                1020 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
+Wednesday                1021 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
 Thursday                 723 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
 Friday                   1163 commits        █████░░░░░░░░░░░░░░░░░░░░   19.54 % 
 Saturday                 1011 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
@@ -59,54 +59,52 @@ Sunday                   829 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Markdown                 35 mins             ████████████░░░░░░░░░░░░░   48.96 % 
-Other                    14 mins             █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
-CSS                      12 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
-JavaScript               9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+Markdown                 35 mins             ███████████████░░░░░░░░░░   61.02 % 
+CSS                      12 mins             █████░░░░░░░░░░░░░░░░░░░░   21.04 % 
+JavaScript               9 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
 
 🔥 Editors: 
-Claude Code              1 hr 10 mins        ████████████████████████░   96.35 % 
-VS Code                  2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
+Claude Code              55 mins             ████████████████████████░   95.58 % 
+VS Code                  2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
 
 🐱‍💻 Projects: 
-guess-the-leetcode       58 mins             ████████████████████░░░░░   80.23 % 
-groop-labs-website       14 mins             █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
+guess-the-leetcode       58 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 12 mins        █████████████████████████   100.00 % 
+Windows                  58 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 12 mins (99.88%)
+⏱ AI Coding Time: 58 mins (99.85%)
 
 ✍️ 2,520 lines written by AI, 2 lines written by hand (99.92% AI-written)
 
-🔤 357,035 Input Tokens, 188,516 Output Tokens
+🔤 215,782 Input Tokens, 149,496 Output Tokens
 
-💵 $26.50 Estimated AI Cost This Week
+💵 $22.18 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 4 AI Prompts
+🧠 1 AI Sessions, 3 AI Prompts
 
 Opus                     2,520 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.92% of written lines came from AI
-📝 Concise Prompter — average 93 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📝 Concise Prompter — average 87 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.08% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               25 repos            ████████░░░░░░░░░░░░░░░░░   30.49 % 
-TypeScript               16 repos            █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
-Dart                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
-C                        1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
-TeX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+JavaScript               26 repos            ████████░░░░░░░░░░░░░░░░░   31.33 % 
+TypeScript               16 repos            █████░░░░░░░░░░░░░░░░░░░░   19.28 % 
+Dart                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+C                        1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+TeX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
 ```
 
 
@@ -116,7 +114,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mjk134/mjk134/main/assets/bar_graph.png)
 
 
- Last Updated on 16/09/2026 02:05:12 UTC
+ Last Updated on 17/09/2026 02:09:05 UTC
 <!--END_SECTION:waka-->
 
 <!--
