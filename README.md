@@ -14,9 +14,9 @@ I'm mjk134 or Mohit! I'm an intermediate developer & student. I love messing wit
 </a> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-196%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-199%20hrs%201%20min-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-23%20hrs%2012%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-24%20hrs%2026%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -59,42 +59,46 @@ Sunday                   829 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Markdown                 35 mins             ███████████████░░░░░░░░░░   61.02 % 
-CSS                      12 mins             █████░░░░░░░░░░░░░░░░░░░░   21.04 % 
-JavaScript               9 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+Rust                     1 hr 47 mins        ██████████████░░░░░░░░░░░   57.34 % 
+Markdown                 46 mins             ██████░░░░░░░░░░░░░░░░░░░   25.10 % 
+CSS                      12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+JavaScript               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
+Go                       7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
 
 🔥 Editors: 
-Claude Code              55 mins             ████████████████████████░   95.58 % 
-VS Code                  2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+Claude Code              1 hr 46 mins        ██████████████░░░░░░░░░░░   57.10 % 
+VS Code                  1 hr 15 mins        ██████████░░░░░░░░░░░░░░░   40.61 % 
+Antigravity CLI          4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
 
 🐱‍💻 Projects: 
-guess-the-leetcode       58 mins             █████████████████████████   100.00 % 
+medal-clip-that          2 hrs 1 min         ████████████████░░░░░░░░░   64.79 % 
+guess-the-leetcode       58 mins             ████████░░░░░░░░░░░░░░░░░   31.18 % 
+apple-music-test         7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
 
 💻 Operating System: 
-Windows                  58 mins             █████████████████████████   100.00 % 
+Windows                  3 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 58 mins (99.85%)
+⏱ AI Coding Time: 2 hrs 12 mins (70.72%)
 
-✍️ 2,520 lines written by AI, 2 lines written by hand (99.92% AI-written)
+✍️ 3,582 lines written by AI, 224 lines written by hand (94.11% AI-written)
 
-🔤 215,782 Input Tokens, 149,496 Output Tokens
+🔤 542,714 Input Tokens, 256,443 Output Tokens
 
-💵 $22.18 Estimated AI Cost This Week
+💵 $32.65 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 3 AI Prompts
+🧠 4 AI Sessions, 18 AI Prompts
 
-Opus                     2,520 lines         █████████████████████████   100.00 % 
+Opus                     3,721 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.92% of written lines came from AI
-📝 Concise Prompter — average 87 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.08% of changed lines were hand-edited
+🤖 AI-Driven — 94.11% of written lines came from AI
+📝 Concise Prompter — average 226 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 6.3% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -114,7 +118,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mjk134/mjk134/main/assets/bar_graph.png)
 
 
- Last Updated on 18/09/2026 01:56:17 UTC
+ Last Updated on 19/09/2026 02:00:56 UTC
 <!--END_SECTION:waka-->
 
 <!--
